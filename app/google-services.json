@@ -1,0 +1,238 @@
+{
+  "project_info": {
+    "project_number": "1099094892461",
+    "firebase_url": "https://dev-apps-6f6e8.firebaseio.com",
+    "project_id": "dev-apps-6f6e8",
+    "storage_bucket": "dev-apps-6f6e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099094892461:android:4a86a598ef3a8938cf8b24",
+        "android_client_info": {
+          "package_name": "app.bensalcie.expesspaykotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7h9BB0sZjTYtMSIYPgy7xglp0JQ96Byc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099094892461:android:097e476abba0e1fdcf8b24",
+        "android_client_info": {
+          "package_name": "app.bensalcie.expresspay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7h9BB0sZjTYtMSIYPgy7xglp0JQ96Byc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099094892461:android:1cf3065d44188ed5cf8b24",
+        "android_client_info": {
+          "package_name": "bs.dicemoney.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7h9BB0sZjTYtMSIYPgy7xglp0JQ96Byc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099094892461:android:5b2958ddb5f9e6e6cf8b24",
+        "android_client_info": {
+          "package_name": "dev.bensalcie.mpesavendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099094892461-gk37dac46uq43nd5gvig9kcdhmc2jtgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.bensalcie.mpesavendor",
+            "certificate_hash": "6aefad0b9efb6b8afc1fd053043ef6268176cdfa"
+          }
+        },
+        {
+          "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7h9BB0sZjTYtMSIYPgy7xglp0JQ96Byc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099094892461:android:934849af9ebf5e4bcf8b24",
+        "android_client_info": {
+          "package_name": "dev.bensalcie.portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099094892461-2ibhu2dokfr2q3met4ulgf9gpjttacj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.bensalcie.portfolio",
+            "certificate_hash": "6aefad0b9efb6b8afc1fd053043ef6268176cdfa"
+          }
+        },
+        {
+          "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7h9BB0sZjTYtMSIYPgy7xglp0JQ96Byc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099094892461:android:7b47f692c6bd72e3cf8b24",
+        "android_client_info": {
+          "package_name": "dev.bensalcie.smartswitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099094892461-o6nso9lde4326lvb50eemoe5cqjmp244.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.bensalcie.smartswitch",
+            "certificate_hash": "7bf46a8d73a47478f4945c57f1a451a02d78ed9b"
+          }
+        },
+        {
+          "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7h9BB0sZjTYtMSIYPgy7xglp0JQ96Byc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099094892461:android:9eb14416a8c39adccf8b24",
+        "android_client_info": {
+          "package_name": "dev.bensalcie.uhaiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7h9BB0sZjTYtMSIYPgy7xglp0JQ96Byc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099094892461-pqfkp87osnhgqldpqrt1faf4farnb4hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
